@@ -1,0 +1,2 @@
+//wap to print even no. between 1 to 100 and odd no. between 100 to 200 using two threads.
+
